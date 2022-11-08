@@ -6,6 +6,5 @@ Cristina _Martínez_
 
 ---
 
-Ce dépôt de test n'a pas de licence.
-
+bla bla bla
 
